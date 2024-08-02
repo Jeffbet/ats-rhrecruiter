@@ -10,6 +10,7 @@
     "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^16.0.0",
     "@testing-library/user-event": "^14.5.2",
+    "ats-frontend": "file:",
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "emailjs-com": "^3.2.0",
