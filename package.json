@@ -2,7 +2,7 @@
   "name": "ats-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://jeffbet.github.io/ats-rhrecruiter/",
+  "homepage": "https://jeffbet.github.io/ats-rhrecruiter/",
   "dependencies": {
     "@fontsource/open-sans": "^5.0.28",
     "@fontsource/roboto": "^5.0.13",
