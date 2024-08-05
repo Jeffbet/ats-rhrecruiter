@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ats-rhrecruiter/static/css/main.a61c3c3d.css",
-    "main.js": "/ats-rhrecruiter/static/js/main.b07e02e9.js",
+    "main.js": "/ats-rhrecruiter/static/js/main.9764362e.js",
     "static/media/candidate.jpg": "/ats-rhrecruiter/static/media/candidate.acce8c6d66028ee6bee7.jpg",
     "static/media/bancodetalentos.jpg": "/ats-rhrecruiter/static/media/bancodetalentos.50240abc0e38d6e056f1.jpg",
     "static/media/home.jpg": "/ats-rhrecruiter/static/media/home.4c80301f98c85ec99d69.jpg",
@@ -44,10 +44,10 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/ats-rhrecruiter/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/ats-rhrecruiter/index.html",
     "main.a61c3c3d.css.map": "/ats-rhrecruiter/static/css/main.a61c3c3d.css.map",
-    "main.b07e02e9.js.map": "/ats-rhrecruiter/static/js/main.b07e02e9.js.map"
+    "main.9764362e.js.map": "/ats-rhrecruiter/static/js/main.9764362e.js.map"
   },
   "entrypoints": [
     "static/css/main.a61c3c3d.css",
-    "static/js/main.b07e02e9.js"
+    "static/js/main.9764362e.js"
   ]
 }
